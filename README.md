@@ -28,7 +28,7 @@ LRLRRLR
 
     O
     O
-  OOO
+__OOO___
 ```
 
 ```
