@@ -1,4 +1,4 @@
-# Assignment 28
+# Assignment 27
 
 For this assignment you will write a method that will estimate pi and print a table.
 
@@ -26,4 +26,3 @@ How many rows? 10
 ### Grading
 
 As always, your program will be graded on its functionality according to the project specifications and proper code style. Please include comments for all methods to enhance readability.
-
