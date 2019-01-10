@@ -26,9 +26,9 @@ LLRLLRR
 RRLLLLL
 LRLRRLR
 
-    O
-    O
-__OOO___
+        O
+        O
+_ _ O O O _ _ _
 ```
 
 ```
@@ -60,15 +60,15 @@ LLL
 RRR
 LRR
 
-  O
- OO
- OO
- OOO
- OOO
- OOO
- OOO
-OOOO
-OOOO
+    O
+  O O
+  O O
+  O O O
+  O O O
+  O O O
+  O O O
+O O O O
+O O O O
 ```
 
 ### Grading
